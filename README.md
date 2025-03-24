@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on the Frontend Development
+I'm currently working on the Full Stack Web Development
 
 
 ## 🌐 Socials:
